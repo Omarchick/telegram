@@ -15,6 +15,5 @@ public static class AutoSender
         var secondScheduledTask = new ScheduledTask(async () => await sendHelper.SendFact(botClient), 1.5);
         firstScheduledTask.Start();
         secondScheduledTask.Start();
-        Console.ReadKey();
     }
 }
