@@ -1,0 +1,3 @@
+﻿using TelegramTest;
+
+AutoSender.StartSending();

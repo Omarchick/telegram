@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w8QfNPrhIWyKySZ9JYNaq8xpQsJqpVblov6SXipUWiQ9xus7Xugdw2FPPq0SfANf8MwlpjmFHyYgCRZTdkb6RA==",
+  "dgSpecHash": "HC6JymtLMQ2J0oiu2tpWB2SvrDHcslp/HDasG2IkbXY3wUFezfOsnFRQiXuqQ/dxxvDfPoR/RWaK7/VzgDW4Zw==",
   "success": true,
-  "projectFilePath": "D:\\F\\TelegramBotAutoWork\\TelegramBotAutoWork\\TelegramBotAutoWork.csproj",
+  "projectFilePath": "D:\\GitClient\\telegram\\TelegramBotAutoWork\\TelegramBotAutoWork.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\use\\.nuget\\packages\\htmlagilitypack\\1.11.51\\htmlagilitypack.1.11.51.nupkg.sha512",
     "C:\\Users\\use\\.nuget\\packages\\magick.net-q16-anycpu\\13.2.0\\magick.net-q16-anycpu.13.2.0.nupkg.sha512",
@@ -80,11 +80,11 @@
     "C:\\Users\\use\\.nuget\\packages\\system.text.regularexpressions\\4.3.0\\system.text.regularexpressions.4.3.0.nupkg.sha512",
     "C:\\Users\\use\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
     "C:\\Users\\use\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
-    "C:\\Users\\use\\.nuget\\packages\\system.threading.tasks.extensions\\4.3.0\\system.threading.tasks.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\use\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\use\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\use\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\use\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\use\\.nuget\\packages\\telegram.bot\\15.7.1\\telegram.bot.15.7.1.nupkg.sha512"
+    "C:\\Users\\use\\.nuget\\packages\\telegram.bot\\16.0.2\\telegram.bot.16.0.2.nupkg.sha512"
   ],
   "logs": []
 }
