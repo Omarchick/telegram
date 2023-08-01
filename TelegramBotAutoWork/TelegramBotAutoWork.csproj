@@ -4,6 +4,8 @@
         <TargetFramework>net7.0</TargetFramework>
         <Nullable>enable</Nullable>
         <ImplicitUsings>enable</ImplicitUsings>
+        <UserSecretsId>70f9d400-d081-4ebf-8a9c-482085668a3f</UserSecretsId>
+        <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
     </PropertyGroup>
 
     <ItemGroup>
@@ -13,6 +15,7 @@
     <ItemGroup>
       <PackageReference Include="HtmlAgilityPack" Version="1.11.51" />
       <PackageReference Include="Magick.NET-Q16-AnyCPU" Version="13.2.0" />
+      <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.15.0" />
       <PackageReference Include="SixLabors.ImageSharp" Version="3.0.1" />
     </ItemGroup>
 

@@ -44,41 +44,17 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "HtmlAgilityPack": {
-              "target": "Package",
-              "version": "[1.11.51, )"
-            },
-            "Magick.NET-Q16-AnyCPU": {
-              "target": "Package",
-              "version": "[13.2.0, )"
-            },
-            "SixLabors.ImageSharp": {
-              "target": "Package",
-              "version": "[3.0.1, )"
-            },
-            "Telegram.Bot": {
-              "target": "Package",
-              "version": "[16.0.2, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300-preview.22154.4\\RuntimeIdentifierGraph.json"
         }
       }
     }
