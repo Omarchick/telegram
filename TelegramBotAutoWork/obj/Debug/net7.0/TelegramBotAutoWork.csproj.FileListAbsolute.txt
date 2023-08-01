@@ -39,8 +39,3 @@ D:\GitClient\telegram\TelegramBotAutoWork\obj\Debug\net7.0\refint\TelegramBotAut
 D:\GitClient\telegram\TelegramBotAutoWork\obj\Debug\net7.0\TelegramBotAutoWork.pdb
 D:\GitClient\telegram\TelegramBotAutoWork\obj\Debug\net7.0\TelegramBotAutoWork.genruntimeconfig.cache
 D:\GitClient\telegram\TelegramBotAutoWork\obj\Debug\net7.0\ref\TelegramBotAutoWork.dll
-D:\GitClient\telegram\TelegramBotAutoWork\bin\Debug\net7.0\TelegramTest.deps.json
-D:\GitClient\telegram\TelegramBotAutoWork\bin\Debug\net7.0\TelegramTest.runtimeconfig.json
-D:\GitClient\telegram\TelegramBotAutoWork\bin\Debug\net7.0\TelegramTest.exe
-D:\GitClient\telegram\TelegramBotAutoWork\bin\Debug\net7.0\TelegramTest.dll
-D:\GitClient\telegram\TelegramBotAutoWork\bin\Debug\net7.0\TelegramTest.pdb

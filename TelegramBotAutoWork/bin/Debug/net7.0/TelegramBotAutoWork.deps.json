@@ -10,8 +10,9 @@
         "dependencies": {
           "HtmlAgilityPack": "1.11.51",
           "Magick.NET-Q16-AnyCPU": "13.2.0",
+          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.15.0",
           "SixLabors.ImageSharp": "3.0.1",
-          "TelegramTest": "1.0.0"
+          "Telegram.Bot": "16.0.2"
         },
         "runtime": {
           "TelegramBotAutoWork.dll": {}
@@ -88,6 +89,7 @@
       },
       "Microsoft.NETCore.Platforms/1.1.0": {},
       "Microsoft.NETCore.Targets/1.1.0": {},
+      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.15.0": {},
       "Microsoft.Win32.Primitives/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0",
@@ -800,17 +802,6 @@
             "fileVersion": "16.0.2.0"
           }
         }
-      },
-      "TelegramTest/1.0.0": {
-        "dependencies": {
-          "HtmlAgilityPack": "1.11.51",
-          "Magick.NET-Q16-AnyCPU": "13.2.0",
-          "SixLabors.ImageSharp": "3.0.1",
-          "Telegram.Bot": "16.0.2"
-        },
-        "runtime": {
-          "TelegramTest.dll": {}
-        }
       }
     }
   },
@@ -854,6 +845,13 @@
       "sha512": "sha512-aOZA3BWfz9RXjpzt0sRJJMjAscAUm3Hoa4UWAfceV9UTYxgwZ1lZt5nO2myFf+/jetYQo4uTP7zS8sJY67BBxg==",
       "path": "microsoft.netcore.targets/1.1.0",
       "hashPath": "microsoft.netcore.targets.1.1.0.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.15.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-63WC4TTNYIGp0pRf9yGrXVqVyPWTtY/r4tFBCOx5d14QVdQPIUqGzE9TWDO1/lOwg+aN0/S3DZTUw9kBSHT/Mg==",
+      "path": "microsoft.visualstudio.azure.containers.tools.targets/1.15.0",
+      "hashPath": "microsoft.visualstudio.azure.containers.tools.targets.1.15.0.nupkg.sha512"
     },
     "Microsoft.Win32.Primitives/4.3.0": {
       "type": "package",
@@ -1386,11 +1384,6 @@
       "sha512": "sha512-kasIAeRUfXeeUCfwjLCtqCGi2PerSqpNnNQznZam/NxqNTAMxXKffsdtcKjSx34dH17FSIHEvLMkPkZed5JbfQ==",
       "path": "telegram.bot/16.0.2",
       "hashPath": "telegram.bot.16.0.2.nupkg.sha512"
-    },
-    "TelegramTest/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
     }
   }
 }
